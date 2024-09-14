@@ -18,14 +18,14 @@ export default function Stack() {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: '#1c1e24', // Fondo oscuro espacial
+    backgroundColor: '#1c1e24',
     padding: 20,
     justifyContent: 'center',
     alignItems: 'center',
   },
   textHola: {
     fontSize: 28,
-    color: '#00FF00', // Verde neón
+    color: '#00FF00',
     fontWeight: 'bold',
     marginBottom: 20,
     textAlign: 'center',
@@ -35,7 +35,7 @@ const styles = StyleSheet.create({
     height: '65%',
     resizeMode: 'cover',
     borderRadius: 15,
-    borderColor: '#D100FF', // Púrpura brillante
+    borderColor: '#D100FF',
     borderWidth: 3,
     marginBottom: 20,
   },
